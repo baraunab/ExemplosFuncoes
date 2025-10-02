@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int quadrado (int a) {
-	return a*a;
-}
+int quadrado (int a);
 
 int main (){
 	//declaracao de variaveis
@@ -20,4 +18,8 @@ int main (){
 	printf("O quadrado de %d eh: %d", n1, n2);
 	
 	return 0;
+}
+
+int quadrado (int a){
+	return a * a;
 }
