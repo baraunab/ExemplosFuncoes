@@ -18,3 +18,7 @@ int main (){
 }
 
 //gasta mais memória por criar uma cópia
+
+
+VC LEMBRA dsclp vc lembra quantas questoes de funcao nos fizemos na utlima aula?
+
